@@ -1,0 +1,1 @@
+{"name":"vara-saree-house","version":"1.0.0","private":true,"type":"module","description":"SHREE SAREE cinematic saree storefront concept","scripts":{"check":"node --check dist/app.js && node --check dist/motion.js && node --check dist/catalog.js"}}
