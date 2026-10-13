@@ -37,3 +37,5 @@ To launch a real store: replace the illustrative catalogue with verified product
 JavaScript syntax, catalogue/asset consistency, local resource references, section anchors, unique IDs, and motion-engine runtime checks were run. The supported browser-preview capability was unavailable in the build environment; visual rendering, touch gestures and interactive browser behavior remain unverified.
 
 Reference motion timings are estimates from a camera recording of a display. Scroll animation is linked to visitor progress, so real duration depends on scroll speed. Exact original easing, hover behaviors and off-screen interactions cannot be recovered from the recording alone.
+
+live link:https://shreesaree-gules.vercel.app/
